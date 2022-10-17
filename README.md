@@ -137,4 +137,4 @@ This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](h
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harigih/THOR-V3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Harifilte/THOR-FLITER)
